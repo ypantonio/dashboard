@@ -1,0 +1,151 @@
+.login-background {
+    background: linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
+    padding-top: 1.7rem;
+}
+section{
+    max-width: 37.5rem;
+    height: auto;
+    margin: auto;
+    padding: 5rem 1.5rem;
+
+    display: flex;
+    flex-direction: column;
+}
+.circulo{
+    height:62px;
+   width:62px;
+   background:var(--gris4);
+   -moz-border-radius:50px;
+   -webkit-border-radius:50px;
+   border-radius:50px;
+   border: 2px solid #fff;
+   position: absolute;
+   margin-left: 270px;
+   margin-top: 20px;
+}
+.banner-login h2 {
+    color: #fff;
+    font-size: 30px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 38px;
+}
+.banner-login span {
+    font-size: 18px;
+    font-weight: normal;
+    color: #fff;
+    margin-top: 9px;
+    opacity: 0.61;
+}
+.temporada{
+    color: #6184C7;
+    font-size: 14px;
+    font-weight: 400;
+    width: 87px;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 53px;
+    background-color: #fff;
+    text-align: center;
+}
+
+.opciones {
+    background-color: #fff;
+    border-radius: 4rem 4rem 0rem 0rem;
+    
+}
+.cuadritos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+}
+.cuadritos .cuadro1{
+    border: 1px solid #5278C1;
+
+    background-color: #fff;
+    width: 162px;
+    height: 201px;
+    border-radius: 15px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: -120px;
+   align-self: flex-start;
+}
+.cuadritos .cuadro2{
+    border: 1px solid #5278C1;
+    background-color: #fff;
+    width: 162px;
+    height: 201px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    margin-top: -120px;
+    align-self: flex-end;
+}
+.birrete{
+    width: 72px;
+    height: 72px;
+    margin: 22px 0px 0px 15px;
+}
+.dinero{
+    width: 72px;
+    height: 72px;
+    margin: 22px 0px 0px 15px;
+}
+.opciones h1{
+    font-family: 'Bebas Neue', cursive;
+    color: #202020;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 43px;
+    margin: 10px 0px 0px 15px;
+}
+.opciones h3{
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 10px 0px 0px 15px;
+    color: #777777;
+}
+.cuadritos .cuadro3{
+    width: 163px;
+    height: 132px;
+    background-color: #F5F6FC;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    
+    align-self: flex-start;
+}
+.cuadritos .cuadro4{
+    width: 163px;
+    height: 132px;
+    background-color: #F5F6FC;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    
+    align-self: flex-end;
+}
+.cuadro3 img{
+    margin: 25px 0px 0px 19px;
+}
+.cuadro3 h2{
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #000000;
+    margin: 15px 0px 0px 19px;
+}
+.cuadro4 img{
+    margin: 25px 0px 0px 19px;
+}
+.cuadro4 h2{
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #000000;
+    margin: 15px 0px 0px 19px;
+}
