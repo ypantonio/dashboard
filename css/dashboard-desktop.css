@@ -1,0 +1,26 @@
+.login-background{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.opciones {
+    border-radius: 4rem 4rem 4rem 4rem;
+    max-width: 80rem;
+    margin-top: 5rem;
+
+}
+.cuadritos .cuadro2{
+    margin-left: -115rem;
+    
+    position:absolute;
+}
+.cuadritos .cuadro1{
+    margin-left: -155rem;
+    margin-top: 21.5rem;
+    position:absolute;
+}
+.banner-login{
+    margin-top: 5rem;
+}

@@ -1,0 +1,13 @@
+.login-background{
+    width: 100vw;
+    height: 100vh;
+}
+.opciones {
+    border-radius: 4rem 4rem 4rem 4rem;
+    max-width: 55rem;
+    margin-top: -2.5rem;
+}
+.cuadritos .cuadro2{
+    margin-top: -55rem;
+    margin-left: 1.5rem;
+}
